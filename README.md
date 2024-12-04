@@ -8,7 +8,7 @@
 Install using Fisher:
 
 ```console
-fisher install gazorby/fish-eza
+fisher install mauricekraus/fish-eza
 ```
 
 ## 🔧 Usage
